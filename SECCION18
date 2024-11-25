@@ -1,0 +1,21 @@
+
+# Online Python - IDE, Editor, Compiler, Interpreter
+
+#def sum(a, b):
+#    return (a + b)
+
+#a = int(input('Enter 1st number: '))
+#b = int(input('Enter 2nd number: '))
+
+#print(f'Sum of {a} and {b} is {sum(a, b)}')
+
+x=10 #tipo entero
+y=5.5 #tipo float
+z=True
+cl= 5>4 #boleano
+texto1="BIENVENIDA A PYTOHN" # cadena caracteres
+texto2="UNIVERSIDAD LIBRE" # cadena caracteres
+salida= texto1+texto2 #cadena
+print("EL VALOR DEx", x)
+print("EL VALOR DE y",y)
+print("EL VALOR DE CL",cl)

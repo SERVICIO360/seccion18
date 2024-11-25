@@ -1,0 +1,16 @@
+a=100
+b=7
+resta=a-b
+suma=a + b 
+multi=a*b 
+divir=a/b
+divie=a//b 
+modulo=a%b 
+potencia=a**b 
+print("LA SUMA ES ",suma   )
+print("LA RESTA ES ",resta   )
+print("LA MULTI ES ",multi   )
+print("LA DIVI ES REAL ",divir   )
+print("LA DIVI ENT ES ",divie   )
+print("EL MODULO ES ",modulo   )
+print("LA POTENCIA ES ", potencia   )
